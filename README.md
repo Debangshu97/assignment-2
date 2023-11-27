@@ -1,3 +1,7 @@
+# Internship Assignment 2 by Debangshu Kantha
+This app was created for the internship task of The Product Company
+- React, MaterialUI , Redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
